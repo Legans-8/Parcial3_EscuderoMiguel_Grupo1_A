@@ -26,3 +26,10 @@ if (honorarios > 0) {
 else if (honorarios < salarioMinimo); {
     alert("Error")
     }
+
+// Calcular el ibc
+
+let ibc = honorarios 
+
+if (ibc < salarioMinimo) {
+} 
